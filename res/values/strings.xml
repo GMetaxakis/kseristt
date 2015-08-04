@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KseriTTS</string>
+    <string name="checkIPandPORT">Συμπλήρωσε IP και PORT</string>
+    <string name="ip">IP :</string>
+    <string name="ipExample">192.168.1.64</string>
+    <string name="port">PORT</string>
+    <string name="portExample">8000</string>
+    <string name="check">Έλεγχος και συνέχεια</string>
+    <string name="title_activity_game">ΞΕΡΗ</string>
+    <string name="bottom">Κάτω :</string>
+    <string name="atHand">Στο χέρι :</string>
+    <string name="one">1 :</string>
+    <string name="two">2 :</string>
+    <string name="three">3 :</string>
+    <string name="four">4 :</string>
+    <string name="five">5 :</string>
+    <string name="six">6 :</string>
+    <string name="clickOnMicAndSpeak">πάτα στο μικρόφωνο και μίλα</string>
+    <string name="description">εικόνα</string>
+</resources>
